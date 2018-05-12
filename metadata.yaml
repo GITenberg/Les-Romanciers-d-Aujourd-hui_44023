@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25418
     wikipedia: http://fr.wikipedia.org/wiki/Charles_Le_Goffic
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44023#Les-Romanciers-d-Aujourd-hui
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-10-23'
 gutenberg_type: Text
